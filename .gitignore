@@ -1,0 +1,10 @@
+## Folders
+
+data/
+logs/
+temp/
+cache/
+
+## Files
+
+*.log
