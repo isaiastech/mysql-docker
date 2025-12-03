@@ -10,7 +10,7 @@ Use:
 
 ## Conectando como root
  * Usuário: root
- 👉 Senha do root = root
+ * Senha do root = root
 
  ## Subir o Projeto 
 
